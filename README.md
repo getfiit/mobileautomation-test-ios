@@ -12,7 +12,7 @@ This application is made of 3 screens: The main, the login and the home screen.
 # On the login screen:
 - the title is 'Login'
 - the Fiit logo is present.
-- at least one of the following credentials is valid and that any other is wrong: username@yoti.com:longpassword, login@yoti.com:verystrongpassword
+- at least one of the following credentials is valid and that any other is wrong: username@fiit.tv:longpassword, login@fiit.tv:verystrongpassword
 
 # On the home screen:
 - the title is 'Home'
